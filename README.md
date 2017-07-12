@@ -1,7 +1,7 @@
 # gb2_core
 GoldBase2 Community Edition for Federal AWS Infrastructure Management  
 
-# 2017 Product Release Schedule  
+## 2017 Release Schedule  
     - Feb: Initial use of GoldBase to build infrastructure for a Federal agency. GoldBase2 project kickoff.
     - Mar: GoldBase2 User Interface (UI) layout and mock-up
     - May: Template and Static Site Content Development
